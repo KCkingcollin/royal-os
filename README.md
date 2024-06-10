@@ -1,0 +1,1 @@
+This repo is a place holder till I can get to a point where I not only have time to code this, but also already have some of the ground work laid out over at [kcs-resonable-configs](https://github.com/KCkingcollin/kcs-reasonable-configs) 
